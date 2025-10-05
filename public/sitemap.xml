@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+   Homepage 
+  <url>
+    <loc>https://yoursite.com/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://yoursite.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yoursite.com/es" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://yoursite.com/de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://yoursite.com/fr" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://yoursite.com/ar" />
+  </url>
+
+   About Page 
+  <url>
+    <loc>https://yoursite.com/about</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+   Contact Page 
+  <url>
+    <loc>https://yoursite.com/contact</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+   Privacy Policy 
+  <url>
+    <loc>https://yoursite.com/privacy</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+   Terms of Service 
+  <url>
+    <loc>https://yoursite.com/terms</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+   Admin Panel 
+  <url>
+    <loc>https://yoursite.com/admin</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

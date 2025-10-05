@@ -1,0 +1,22 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Disallow admin pages
+Disallow: /admin/
+
+# Sitemap location
+Sitemap: https://yoursite.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Specific rules for Google
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+
+# Specific rules for Bing
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
